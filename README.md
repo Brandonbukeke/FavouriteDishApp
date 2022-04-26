@@ -14,7 +14,7 @@ Built the app using Jetpack Compose,MVVM architecture,Glide,Room Database,Live d
 
 ### Home
 
-![](https://github.com/Brandonbukeke/screenshots/blob/main/Screenshots/home%20favdish.jpg?raw=true)
+![](https://github.com/Brandonbukeke/screenshots/blob/main/Screenshots/home%20favdish.jpg)
 
 ### Edit or Delete
 
