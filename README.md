@@ -10,7 +10,7 @@ Built the app using Jetpack Compose,MVVM architecture,Glide,Room Database,Live d
 
 ## Screenshots
 ### Splash screen
-![](https://github.com/Brandonbukeke/screenshots/blob/main/Screenshots/splash%20screen%20favdish.jpg?raw=true)
+![Alt text](https://github.com/Brandonbukeke/screenshots/blob/main/Screenshots/splash%20screen%20favdish.jpg?raw=true)
 
 ### Home
 
