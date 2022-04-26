@@ -3,14 +3,14 @@
 
 It is an  Android application that helps users browse through different dishes,add,edit or even delete dishes.It also offers recipes of all dishes. 
 
-Built the app using Jetpack Compose,MVVM architecture,Glide,Room Database,Live data,navigation components,CRUD and Rx Java.
+Built the app using Jetpack Compose,MVVM architecture,Coroutines,Work Manager,Notifications,Retrofit,Room Database,Live data,navigation components,CRUD and Rx Java.
 
 
 
 
 ## Screenshots
 ### Splash screen
-![Alt text](https://github.com/Brandonbukeke/screenshots/blob/main/Screenshots/splash%20screen%20favdish.jpg)
+![](https://github.com/Brandonbukeke/screenshots/blob/main/Screenshots/splash%20screen%20favdish.jpg)
 
 ### Home
 
