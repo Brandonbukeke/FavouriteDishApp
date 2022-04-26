@@ -3,7 +3,7 @@
 
 It is an  Android application that helps users browse through different dishes,add,edit or even delete dishes.It also offers recipes of all dishes. 
 
-Built the app using Jetpack Compose,MVVM architecture,Coroutines,Work Manager,Notifications,Retrofit,Room Database,Live data,navigation components,CRUD and Rx Java.
+Built the app using Jetpack Compose,MVVM architecture,navigation components,Android Palette,Coroutines,Work Manager,Notifications,Retrofit,Room Database,Live data,,CRUD operations and Rx Java.
 
 
 
